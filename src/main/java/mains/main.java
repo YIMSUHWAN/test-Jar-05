@@ -21,6 +21,7 @@ import java.util.Scanner;
  * @author SUHWAN-IM
  */
 public class main {
+	
 	static String url = null;
 	static String id = null;
 	static String pass = null;
